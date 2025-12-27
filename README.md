@@ -51,9 +51,12 @@ My passion lies in bridging the gap between **Artificial Intelligence** models a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulhamid-Iskander&show_icons=true&theme=radical&count_private=true" alt="Abdulhamid's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhamid-Iskander&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulhamid-Iskander&theme=radical" alt="Abdulhamid's Streak" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhamid-Iskander&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
+</p>
+
 
 ---
 
