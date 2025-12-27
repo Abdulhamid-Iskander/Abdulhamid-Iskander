@@ -3,7 +3,7 @@
 ### 👨‍💻 AI & Computer Science Student | Mobile & Full Stack Developer
 
 I am a **3rd-year AI & CS Student** at **Menoufia National University** with a diverse technical background.
-I graduated from the **DEPI Initiative** (Mobile Development) and I am currently an **ITI BELTS Scholar** specializing in Full Stack Web Development (.NET & React).
+I graduated from the **DEPI Initiative** (Mobile Development) and I am currently an **ITI BELTS Scholar** specializing in Full Stack Web Development (.NET).
 
 My passion lies in bridging the gap between **Artificial Intelligence** models and robust **Software Solutions**.
 
@@ -31,7 +31,9 @@ My passion lies in bridging the gap between **Artificial Intelligence** models a
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
