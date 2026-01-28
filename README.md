@@ -48,7 +48,7 @@ My passion lies in bridging the gap between **Artificial Intelligence** models a
 
 ---
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulhamid-Iskander&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulhamid-Iskander&theme=react-dark&hide_border=true&area=true&days=365" />
 </p>
 
 
