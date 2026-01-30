@@ -47,8 +47,14 @@ My passion lies in bridging the gap between **Artificial Intelligence** models a
 </p>
 
 ---
+## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulhamid-Iskander&theme=react-dark&hide_border=true&area=true&days=365" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulhamid-Iskander&theme=react-dark&area=true&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Abdulhamid-Iskander?isocalendar=1"/>
 </p>
 
 
