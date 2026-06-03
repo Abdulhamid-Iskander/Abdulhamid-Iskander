@@ -1,80 +1,138 @@
-# Hi there, I'm Abdulhamid Iskander 👋
+<h1 align="center">Hi 👋, I'm Abdulhamid Iskander</h1>
 
-### 👨‍💻 AI & Computer Science Student | Mobile & Full Stack Developer
+<h3 align="center">
+AI & Computer Science Student | Flutter Developer | Full Stack .NET Developer
+</h3>
 
-I am a **3rd-year AI & CS Student** at **Menoufia National University** with a diverse technical background.
-I graduated from the **DEPI Initiative** (Mobile Development) and I am currently an **ITI BELTS Scholar** specializing in Full Stack Web Development (.NET).
-
-My passion lies in bridging the gap between **Artificial Intelligence** models and robust **Software Solutions**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%26+Computer+Science+Student;Flutter+Developer;Full+Stack+.NET+Developer;Machine+Learning+Enthusiast;Building+Smart+Software+Solutions" />
+</p>
 
 ---
 
-### 🛠️ Languages & Tools
+## About Me
 
-**🧠 Artificial Intelligence & Data Science**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+I'm an AI & Computer Science student with hands-on experience in Mobile Development, Full Stack Web Development, and Artificial Intelligence.
 
-**📱 Mobile & Web Development**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-</p>
+My focus is building software that combines strong engineering practices with intelligent systems, from scalable Flutter applications and backend services to machine learning and data-driven solutions.
 
-**🗄️ Databases & Tools**
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-</p>
+- AI & Computer Science Student at Menoufia National University
+- DEPI Graduate – Mobile Development Track
+- ITI BELTS Scholar – Full Stack .NET Development
+- Passionate about AI, Mobile Development, Cloud, and Software Engineering
 
----
-## 📊 GitHub Activity
+### Current Interests
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulhamid-Iskander&theme=react-dark&area=true&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Abdulhamid-Iskander?isocalendar=1"/>
-</p>
-
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulhamid-Iskander&theme=radical" alt="Abdulhamid's Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhamid-Iskander&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
-</p>
-
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning Engineering
+- Cloud Computing
+- Mobile System Design
+- Full Stack Development
 
 ---
 
-### 📫 Connect with me
+## 💻 Tech Stack
 
-<p align="left">
-<a href="https://www.linkedin.com/in/abdulhamid-iskander-457439320" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abdulhamid Iskander" /></a>
-<a href="mailto:abdulhamidiskander@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="abdulhamidiskander@gmail.com" /></a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flutter,dart,kotlin,java,cs,dotnet,js,html,css,firebase,sqlite,git" />
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdulhamid-Iskander&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhamid-Iskander&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulhamid-Iskander&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulhamid-Iskander&theme=tokyo-night&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Abdulhamid-Iskander&theme=tokyonight&row=1&column=7&no-frame=true"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### Pokémon Combat Analytics
+
+Advanced Flutter analytics platform focused on Pokémon battle intelligence and performance insights.
+
+**Tech Stack**
+- Flutter
+- BLoC / Cubit
+- Clean Architecture
+- Local Cache
+- Offline First
+- Interactive Analytics
+
+---
+
+### Finance & Investment Tracker
+
+Personal finance management application with portfolio tracking and market analytics.
+
+**Tech Stack**
+- Flutter
+- Hive
+- Financial Analytics
+- Asset Tracking
+- Market Data Integration
+
+---
+
+### Taysir
+
+Modern Flutter application with responsive UI and scalable architecture.
+
+**Tech Stack**
+- Flutter
+- Clean Architecture
+- Authentication
+- Responsive Design
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/abdulhamid-iskander-457439320">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:abdulhamidiskander@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Abdulhamid-Iskander&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
