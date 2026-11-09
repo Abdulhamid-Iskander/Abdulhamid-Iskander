@@ -80,17 +80,32 @@ My focus is building software that combines strong engineering practices with in
 
 ## 🚀 Featured Projects
 
-### Pokémon Combat Analytics
+### 🏗️ Rukaz Construction and Contracting ERP
 
-Advanced Flutter analytics platform focused on Pokémon battle intelligence and performance insights.
+Full stack offline first construction and contracting management platform built for field engineers and contracting companies to manage project budgets site expenses labor attendance payroll inventory petty cash subcontracts payment certificates and QR equipment tracking without internet access
 
-**Tech Stack**
-- Flutter
-- BLoC / Cubit
-- Clean Architecture
-- Local Cache
-- Offline First
-- Interactive Analytics
+<p>
+  <a href="https://github.com/Abdulhamid-Iskander/Rukaz">
+    <img src="https://img.shields.io/badge/Mobile_App-Flutter_Offline_First-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Rukaz Mobile App" />
+  </a>
+  <a href="https://github.com/Abdulhamid-Iskander/Rukaz-Server">
+    <img src="https://img.shields.io/badge/Backend_Server-.NET_10_and_PostgreSQL_17-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Rukaz Server" />
+  </a>
+</p>
+
+**Mobile Application ([Rukaz](https://github.com/Abdulhamid-Iskander/Rukaz))**
+- Flutter and Dart with Feature First Clean Architecture
+- BLoC and Cubit state management
+- Drift SQLite local database with 31 tables and transactional outbox sync
+- S3 presigned attachment uploads and QR asset stocktake scanner
+- 654 automated unit widget DAO and architecture tests
+
+**Backend Server ([Rukaz-Server](https://github.com/Abdulhamid-Iskander/Rukaz-Server))**
+- .NET 10 Minimal APIs with Clean Architecture and CQRS pipelines
+- PostgreSQL 17 and EF Core 10 with multi tenant Row Level Security
+- Idempotent offline sync engine for push batches and cursor delta pull
+- QuestPDF Arabic RTL payment certificates and ClosedXML Excel bulk imports
+- Docker Compose Caddy OpenTelemetry Prometheus WAL-G backup and 303 automated tests
 
 ---
 
